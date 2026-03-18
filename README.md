@@ -16,3 +16,5 @@ Output:
     - Log file saved to:    C:\PopupWatcher\popup_log.txt
 
 Press Ctrl+C to stop.
+
+Shamelessly vibed with claude.
